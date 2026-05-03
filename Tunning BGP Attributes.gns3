@@ -58,8 +58,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"24\" width=\"54\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">AS 100</text></svg>",
-                "x": -735,
-                "y": -437,
+                "x": -782,
+                "y": -446,
                 "z": 2
             },
             {
@@ -67,7 +67,7 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"24\" width=\"62\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">AS 2000</text></svg>",
-                "x": -296,
+                "x": -292,
                 "y": -434,
                 "z": 2
             },
@@ -274,7 +274,7 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"24\" width=\"116\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">loop 0: 200.4.4.0</text></svg>",
-                "x": -322,
+                "x": -316,
                 "y": -463,
                 "z": 2
             },
@@ -417,7 +417,7 @@
                 "drawing_id": "882e0723-59c4-4b32-8ada-38e71d9f2a0d",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"123\" width=\"125\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"14.0\" font-weight=\"bold\">Notes\n\nB --&gt; BGP\nO --&gt; OSPF\nE --&gt; EIGRP</text></svg>",
+                "svg": "<svg height=\"123\" width=\"127\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"14.0\" font-weight=\"bold\">Notes\n\nB --&gt; BGP\nO --&gt; OSPF\nD --&gt; EIGRP</text></svg>",
                 "x": -966,
                 "y": 175,
                 "z": 2
